@@ -30,5 +30,5 @@ To perform the imputation and forecasting tasks based on NetOIF, please run the 
 
 ## Citation
 
-Shi, Min, and Shamim Mollah. "NeTOIF: A Network-based Approach for Time-Series Omics Data Imputation and Forecasting." bioRxiv (2021).
+Shi, Min, and Shamim Mollah. "NeTOIF: A Network-based Approach for Time-Series Omics Data Imputation and Forecasting." bioRxiv (2021). doi: https://www.biorxiv.org/content/10.1101/2021.06.05.447209v1.abstract
 
