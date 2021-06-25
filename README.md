@@ -7,7 +7,7 @@ This repository implements the NetOIF for time-series omics data imputation and 
 
 two datasets were used:
 
-- RPPA (reverse phase protein array): The RPPA proteomics data were downloaded from the [Synapse platform](https://www.synapse.org/#! Synapse:syn12555331).
+- RPPA (reverse phase protein array): The RPPA proteomics data were downloaded from the [Synapse platform](https://www.synapse.org/#!Synapse:syn12555331).
 - GE (genome-wide gene expression): The GE data were published by [Mutarelli et al](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-S2-S12).
 
 ## Requirement
