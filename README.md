@@ -1,7 +1,7 @@
-NetOIF
+NeTOIF
 =====
 
-This repository implements the NetOIF for time-series omics data imputation and forecasting.
+This repository implements the NeTOIF for time-series omics data imputation and forecasting.
 
 ## Data
 
@@ -22,7 +22,7 @@ two datasets were used:
 2. The imputation_task_GE_data.ipynb implements imputation task on the GE data.
 3. The forecasting_task_GE_data.ipynb implements forecasting task on the GE data.
 
-To perform the imputation and forecasting tasks based on NetOIF, please run the notebook step by step.
+To perform the imputation and forecasting tasks based on NeTOIF, please run the notebook step by step.
 
 ## Reference
 
